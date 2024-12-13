@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { services } from '../constants/services';
 
 export default function Services() {
